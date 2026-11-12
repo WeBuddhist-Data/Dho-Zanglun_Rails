@@ -200,6 +200,7 @@
   },
   "active": "1535844de6d85bd1",
   "lastOpenFiles": [
+    "1-SOURCES/Text/མཛངས་བླུན་ཞེས་བྱ་བའི་མདོ་ཡི་ཡིག་རྐྱང་ཆ་ཚང་།.txt",
     "4-SYSTEM/Skills/clean-raw-text/examples/README.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/commentary-toc-extract/SKILL.md",
@@ -234,7 +235,6 @@
     "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
     "4-SYSTEM/Skills/glossary-combine/SKILL.md",
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md"
+    "4-SYSTEM/Skills/format-commentary/SKILL.md"
   ]
 }
