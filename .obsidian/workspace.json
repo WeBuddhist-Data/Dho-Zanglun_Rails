@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f063e03db8dfac6",
+        "id": "6656045379f43b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "4bc75d705036174d",
+            "id": "963ec6225a3bb192",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -196,6 +196,10 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "Claude outputs/mdo-mdzangs-blun-toc.md",
     "Claude outputs",
     "1-SOURCES/Text/mdo-mdzangs-blun-bo.md",
@@ -211,10 +215,6 @@
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/commentary-toc-extract/SKILL.md",
     "README.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
@@ -230,7 +230,6 @@
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/property-creator/SKILL.md",
-    "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
-    "4-SYSTEM/Skills/local-wiki-article/SKILL.md"
+    "4-SYSTEM/Skills/json-to-source-text/SKILL.md"
   ]
 }
