@@ -201,6 +201,8 @@
   },
   "active": "d3f278330d74ce5f",
   "lastOpenFiles": [
+    "1-SOURCES/Text/མཛངས་བླུན་ལེའུ་ཀུན་དུམ་མཚམས་བཅད་པ།.md",
+    "1-SOURCES/Text/མདོ་མཛངས་བླུན།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -234,7 +236,6 @@
     "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/property-creator/SKILL.md",
-    "4-SYSTEM/Skills/json-to-source-text/SKILL.md"
+    "4-SYSTEM/Skills/property-creator/SKILL.md"
   ]
 }
