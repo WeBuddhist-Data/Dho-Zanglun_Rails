@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6656045379f43b3f",
+        "id": "5a2164cba5b06e44",
         "type": "tabs",
         "children": [
           {
-            "id": "963ec6225a3bb192",
+            "id": "d3f278330d74ce5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/མདོ་མཛངས་བླུན།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "མདོ་མཛངས་བླུན།"
             }
           }
         ]
@@ -76,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.661865234375
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -178,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +199,7 @@
       "footnote-list:Open footnote list": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "d3f278330d74ce5f",
   "lastOpenFiles": [
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
